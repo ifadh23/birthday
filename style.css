@@ -1,0 +1,29 @@
+body {
+    background-color: cadetblue;
+}
+h1 {
+    text-align: center;
+    color: blanchedalmond;
+}
+img {
+    display: block;
+    margin: 0 auto 50px auto;
+    border-radius: 50%;
+    border: 3px solid;
+    width: 400px;
+    height: 400px;
+}
+a {
+    display: block;
+    width: fit-content;
+    margin: 0 auto 0 auto;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 5px;
+    border-radius: 10px;
+    background-color: darkkhaki;
+    font-size: 35px;
+}
+audio {
+    display: none;
+}
